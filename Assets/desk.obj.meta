@@ -1,0 +1,1611 @@
+fileFormatVersion: 2
+guid: d73896c69b9eea54cbf59dae65021507
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BezierCircle_BezierCircle_NoneMat
+    second: {fileID: 2100000, guid: 95f6299b30ae57240b89ccc64ae19dc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BezierCurve.001_BezierCurve.001_cableMat
+    second: {fileID: 2100000, guid: c8f77b17a7d1a1c4aab425605d518d9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BezierCurve.003_BezierCurve.005_lamba.001Mat
+    second: {fileID: 2100000, guid: 8388116f11012ac4d878dba37469ed75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BezierCurve.004_BezierCurve.004_lamba.001Mat
+    second: {fileID: 2100000, guid: 0788d054b9eae0d418313d3cf908d4b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BezierCurve.005_BezierCurve.006_lamba.001Mat
+    second: {fileID: 2100000, guid: 1792ddcc8a1ac6a4f8312467d8751cf1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BezierCurve.006_BezierCurve.007_lamba.001Mat
+    second: {fileID: 2100000, guid: 8cb4ace24923b5b429f9d0bf79f46a8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BezierCurve_BezierCurve_cableMat
+    second: {fileID: 2100000, guid: 32dcc001c2046d64da735b7b42f10fb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box001.001_Mesh.014_Material_#1233Mat
+    second: {fileID: 2100000, guid: 2400cd8676df50d44a8c76142a735460, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box001_Mesh.003_NoneMat
+    second: {fileID: 2100000, guid: 72e6caa0f379ba64c9c5a2c568355ad4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box002_Mesh.004_NoneMat
+    second: {fileID: 2100000, guid: 2a701752bfbf1d847847ea12a7506d06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box003_Mesh.005_NoneMat
+    second: {fileID: 2100000, guid: 3a698a3798b0c9d40afb5c9e1c004951, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Box004_Mesh.006_NoneMat
+    second: {fileID: 2100000, guid: f2079d4a7c4908e48891a702c131afb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Circle.001_Circle.001_monitor_barMat
+    second: {fileID: 2100000, guid: 9f323798a6de342449a4c05dc212c8d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Circle.002_Circle.003_lambaMat
+    second: {fileID: 2100000, guid: 5117a9bbfb64e7e4a862dbee007d48d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Circle.003_Circle.004_lambaMat
+    second: {fileID: 2100000, guid: 041341bd046b4c348a320ff83f32c061, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Circle.004_Circle.005_lamba.2Mat
+    second: {fileID: 2100000, guid: c8c8c5b8151dee546a93a569f9a1137d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Circle.005_Circle.009_case_.001Mat
+    second: {fileID: 2100000, guid: a4c00ec1221cc3241b0b9b2ac679a612, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Circle.005_Circle.009_monitor_barMat
+    second: {fileID: 2100000, guid: 8459fd7bd5bb784489a06298874731a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Circle.006_Circle.006_drinkMat
+    second: {fileID: 2100000, guid: 5c2bfe36112062c4d88ca004e376106b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Circle.007_Circle.007_drink.003Mat
+    second: {fileID: 2100000, guid: 9ea630ee2bf067e499d0abfd2e7c8e54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Circle.008_Circle.012_case_.001Mat
+    second: {fileID: 2100000, guid: 3397c6e84b908b6449262c395c6eaaa0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Circle.009_Circle.006_case_Mat
+    second: {fileID: 2100000, guid: 14520347bab441e4bb0feea884a1d2dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Circle.009_Circle.006_fan_ledMat
+    second: {fileID: 2100000, guid: 78259f0832174ae478a3ab3890e86123, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Circle.010_Circle.020_case_Mat
+    second: {fileID: 2100000, guid: 55b9db8d8c3b9be44b8044d1b80b9094, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Circle.010_Circle.020_fan_ledMat
+    second: {fileID: 2100000, guid: cb16698fdde2bd54083d68f59ff81b0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Circle.011_Circle.021_case_Mat
+    second: {fileID: 2100000, guid: 0e1dee5daf093b942b1bc53b221ac6a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Circle.011_Circle.021_fan_ledMat
+    second: {fileID: 2100000, guid: 859fc4ef32af3bc4ab790176cfc31d6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Circle.012_Circle.011_case_Mat
+    second: {fileID: 2100000, guid: a582a8fa0853a194ea9a5b51004e02b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Circle.012_Circle.011_fan_ledMat
+    second: {fileID: 2100000, guid: cb16e573d1d1fd94697a7f032922cf07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Circle.013_Circle.010_case_Mat
+    second: {fileID: 2100000, guid: 007d628ee1823c94698b52682a54c66f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Circle.013_Circle.010_fan_ledMat
+    second: {fileID: 2100000, guid: 282f21f683a1fea4ebb2f579ee9fef4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Circle.014_Circle.016_monitor_barMat
+    second: {fileID: 2100000, guid: 78832bb997e27a2458e602956ae5f19c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Circle.015_Circle.015_coffeeMat
+    second: {fileID: 2100000, guid: c1ea0861f39541f44bdf4fa6efe143ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Circle.016_Circle.008_lambaaMat
+    second: {fileID: 2100000, guid: 2142b364874746742b80df938d942935, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Circle.018_Circle.019_lambaaMat
+    second: {fileID: 2100000, guid: b8cf257e85e38a34eb28bddea113da31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Circle_Circle_monitor_barMat
+    second: {fileID: 2100000, guid: 1ad931474977e954daff72d22f6488b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.000_Cube.007_monitor_barMat
+    second: {fileID: 2100000, guid: 5b97f712ee1890f43a801ef6701efe21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.001_Cube.064_book_insideMat
+    second: {fileID: 2100000, guid: ee760e0c32654664ca7a1b3be7d79135, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.002_Cube.003_monitor_barMat
+    second: {fileID: 2100000, guid: 4a0872392a395334ab171536bf35412f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.003_Cube.009_monitor_barMat
+    second: {fileID: 2100000, guid: cb37017dd3db41d4cb18951686975d2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.004_Cube.005_monitor_barMat
+    second: {fileID: 2100000, guid: 6fd860b35136b7c4dbdfff27df319355, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.005_Cube.155_speaker_2Mat
+    second: {fileID: 2100000, guid: de84978e3e792014f9d6018778651bdb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.006_Cube.156_speaker_2Mat
+    second: {fileID: 2100000, guid: a4a15086807149942881d8f1470e8ab9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.007_Cube.021_case_Mat
+    second: {fileID: 2100000, guid: ebb29c3bf72496a4a89b3361c7a2da35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.007_Cube.021_monitor_barMat
+    second: {fileID: 2100000, guid: 4de49f167e71e2045814baa51180aa2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.008_Cube.014_speaker_2Mat
+    second: {fileID: 2100000, guid: 77aa8f0cb89f2b045a2ed8770f8ffc91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.009_Cube.015_speaker_2Mat
+    second: {fileID: 2100000, guid: 0fa717abab9053748b713d3e568d2f6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.010_Cube.017_lamba.2Mat
+    second: {fileID: 2100000, guid: f5e3c356deb338c458bdd9b84b33b56e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.011_Cube.006_lambaMat
+    second: {fileID: 2100000, guid: 7e3d440a60df00a4eb6f733119052ed2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.012_Cube.016_lambaMat
+    second: {fileID: 2100000, guid: a86a6af7caf3c5c40ac6a87e6fe7f8ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.013_Cube.018_lambaMat
+    second: {fileID: 2100000, guid: d8f5037d06dc0194998361619d643658, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.014_Cube.019_lambaMat
+    second: {fileID: 2100000, guid: a8fe137993bd2c04ba91c6649099f292, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.015_Cube.020_lamba.2Mat
+    second: {fileID: 2100000, guid: 2dcb86e828271bd459ed0d6eb735f88e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.016_Cube.106_pc_glassMat
+    second: {fileID: 2100000, guid: 272460b549d07234a9d0603f84b75706, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.017_Cube.026_book.003Mat
+    second: {fileID: 2100000, guid: f3f1a0bc399750a4e8030e4784835df9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.018_Cube.028_clapperMat
+    second: {fileID: 2100000, guid: cf72766aac4769e4e8609231b0071ce1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.018_Cube.028_clapper_2.001Mat
+    second: {fileID: 2100000, guid: ebf7b686339926e4292b8fe9743e2c30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.019_Cube.033_case_Mat
+    second: {fileID: 2100000, guid: b70090d1dbe83c34a849ad193c33a2f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.020_Cube.042_case_Mat
+    second: {fileID: 2100000, guid: 6bed10aefcaecfe4da9f5aa1bd73246e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.021_Cube.043_monitor_barMat
+    second: {fileID: 2100000, guid: af9cf3ec8c8ad594b8c4e2b473db4e90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.022_Cube.066_book_insideMat
+    second: {fileID: 2100000, guid: 31272d9a69ad2e246b3d2ea4aa64a8e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.023_Cube.045_monitor_barMat
+    second: {fileID: 2100000, guid: bcf23604a9a200c49bf00dc0ed09cef7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.024_Cube.062_book_insideMat
+    second: {fileID: 2100000, guid: 3ee42057cfe5bfe4d9e8376838ebc027, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.025_Cube.068_book_insideMat
+    second: {fileID: 2100000, guid: 649cbcfa1071d3a4fa29da27b46501ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.026_Cube.048_monitor_barMat
+    second: {fileID: 2100000, guid: 9c793dc54a7fcc249a471935113b8deb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.027_Cube.070_book_insideMat
+    second: {fileID: 2100000, guid: afd87e3048fe84d4dbd8c33f0dc33a68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.028_Cube.072_book_insideMat
+    second: {fileID: 2100000, guid: 8216707088a48af4289288595712e0bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.029_Cube.052_fan_ledMat
+    second: {fileID: 2100000, guid: 87c7d47883729b64890b17fb759166d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.030_Cube.074_book_insideMat
+    second: {fileID: 2100000, guid: d7f4e2a9b21ee974bb0d1a801a815ac4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.031_Cube.076_book_insideMat
+    second: {fileID: 2100000, guid: af69e6c1d5b5a554582adabfafa9a09e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.032_Cube.079_book_insideMat
+    second: {fileID: 2100000, guid: 566be3c0861906241aa6e189f0ca08e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.033_Cube.056_fan_ledMat
+    second: {fileID: 2100000, guid: 6d59e8f1b16c2034aa5040f694f0d446, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.034_Cube.057_headphoneMat
+    second: {fileID: 2100000, guid: 4f8d2c14893a2a641be46297bf6fa5de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.035_Cube.058_cableMat
+    second: {fileID: 2100000, guid: ba57fbc82e774974fa1c4c374691bd02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.036_Cube.051_desk_woodMat
+    second: {fileID: 2100000, guid: 5db3a0c752edcdc4f84894d053289bdc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.037_Cube.082_book_insideMat
+    second: {fileID: 2100000, guid: 2284c23a2666bee45a87cdf75a2d96c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.038_Cube.084_book_insideMat
+    second: {fileID: 2100000, guid: 25138c1085d61fe43b5e11d85aee784a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.039_Cube.094_coffee_tableMat
+    second: {fileID: 2100000, guid: 48a709089693fc141b4f3684ffe165f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.040_Cube.085_lamba.2Mat
+    second: {fileID: 2100000, guid: ffd72c87e9331a347b320816df05e98a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.041_Cube.035_desk_woodMat
+    second: {fileID: 2100000, guid: 640a6b888b67a554a83021bf4d933b9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.042_Cube.036_desk_woodMat
+    second: {fileID: 2100000, guid: be7bda48845d83e47aa3e65c3ef1869d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.043_Cube.041_desk_woodMat
+    second: {fileID: 2100000, guid: eb596ed97277d3a4fb8a39a0ed0a66ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.044_Cube.090_sofaMat
+    second: {fileID: 2100000, guid: c22faaf6c8bf143488bf5d24ff41f49f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.045_Cube.030_book_insideMat
+    second: {fileID: 2100000, guid: e55f84faa16979a4b8e6a5c38b21a8f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.046_Cube.092_sofaMat
+    second: {fileID: 2100000, guid: b7f8205b45a02db40b8c8ce7d0a08679, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.047_Cube.038_cable.2Mat
+    second: {fileID: 2100000, guid: 689d5e17c61c40541a301d43c3aaeb34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.048_Cube.037_trash.001Mat
+    second: {fileID: 2100000, guid: be440649d1c5bb84baced7a8facab894, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.049_Cube.039_cableMat
+    second: {fileID: 2100000, guid: 379ea84b76e60924290a395c9b6cef32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.050_Cube.101_box_2Mat
+    second: {fileID: 2100000, guid: f0f52c51697eebd4e9ec3167e96efe96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.051_Cube.100_coffee_tableMat
+    second: {fileID: 2100000, guid: 78d95bd18cc466b458101705af435774, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.052_Cube.059_box_3Mat
+    second: {fileID: 2100000, guid: bf9ed50da71d59b42a2f7fb8b212c4e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.053_Cube.103_box_2Mat
+    second: {fileID: 2100000, guid: ed94129ac0e505140b8b6fe35508f120, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.054_Cube.105_boxMat
+    second: {fileID: 2100000, guid: c038cdc6faf641642a92f9f7cd4abd12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.055_Cube.055_book_insideMat
+    second: {fileID: 2100000, guid: f8b95c9affa94be46bac45679d8662f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.056_Cube.108_book_insideMat
+    second: {fileID: 2100000, guid: cd295c9936b8b674b8b5ef764377ab19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.057_Cube.110_book_insideMat
+    second: {fileID: 2100000, guid: ab965466ff6f45a4bacab388d6db0a58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.058_Cube.112_book_insideMat
+    second: {fileID: 2100000, guid: e9c18f58fd1506b4781f8f12813a6a29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.059_Cube.114_book_insideMat
+    second: {fileID: 2100000, guid: 841b903f9aea07544b0ca333f8db5b41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.060_Cube.116_book_insideMat
+    second: {fileID: 2100000, guid: 156babb57eb577e4a94351a916b57d65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.061_Cube.118_book_insideMat
+    second: {fileID: 2100000, guid: 2df46bc3b50e95649a2f6d7048586e34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.062_Cube.120_book_insideMat
+    second: {fileID: 2100000, guid: f69b4b81e256d1b45a65057c7d2d43d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.063_Cube.122_book_insideMat
+    second: {fileID: 2100000, guid: 40c2e516dfa11f242b0c2c8c443cca01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.064_Cube.124_book_insideMat
+    second: {fileID: 2100000, guid: 71e5b91c26e2a0840b22dd48a80d1e29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.065_Cube.126_book_insideMat
+    second: {fileID: 2100000, guid: 5468456f8327a44468b64cf5ff74c205, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.066_Cube.128_book_insideMat
+    second: {fileID: 2100000, guid: fd7e089f26ded2040982091b5a6d0531, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.067_Cube.130_book_insideMat
+    second: {fileID: 2100000, guid: 7e8dea8810e8d8f4391ceeb9c3480634, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.068_Cube.132_book_insideMat
+    second: {fileID: 2100000, guid: 20945c4b7bef47a4c94a4b834f0c7b50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.069_Cube.134_book_insideMat
+    second: {fileID: 2100000, guid: b6656e454e0898b4983aae94b94192a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.070_Cube.136_book_insideMat
+    second: {fileID: 2100000, guid: 9117a2ad13e84404a921677ca4783c6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.071_Cube.138_book_insideMat
+    second: {fileID: 2100000, guid: 56bf16b3cc13811488088ca1bc2796b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.072_Cube.140_book_insideMat
+    second: {fileID: 2100000, guid: 62f603b806da98b4da19847689b03a06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.073_Cube.142_book_insideMat
+    second: {fileID: 2100000, guid: 3ae7a4d6e8cc75a4098d6dbbaab1a18d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.074_Cube.144_book_insideMat
+    second: {fileID: 2100000, guid: d85488b523e9c7e4aaf399dad3f77fab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.075_Cube.147_book_insideMat
+    second: {fileID: 2100000, guid: a60dd7f2586d3dd41990b55d8205f9d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.076_Cube.149_book_insideMat
+    second: {fileID: 2100000, guid: a0d3fc1e996a53347be858e016509444, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.077_Cube.151_book_insideMat
+    second: {fileID: 2100000, guid: 989439a0b1df13747a49b5861675f863, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube.078_Cube.153_book_insideMat
+    second: {fileID: 2100000, guid: 666d56ad47d101a4684ca515f3405816, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cube_Cube.022_case_Mat
+    second: {fileID: 2100000, guid: b815d2c05d31c5a408badb51efe6a880, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder.001_Cylinder.001_Material.021Mat
+    second: {fileID: 2100000, guid: 3b2b606b88813d4419cf6785cfd57bf2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder.001_Cylinder.001_Material.022Mat
+    second: {fileID: 2100000, guid: 74efc0069e697d240a3e1bcde5d80d1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder.002_Cylinder.002_Material.021Mat
+    second: {fileID: 2100000, guid: 848980a5af7fc4d4b8d6be6f0b077b20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder.002_Cylinder.002_Material.022Mat
+    second: {fileID: 2100000, guid: 4c3759c68e362cb41870c261758d3257, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder.003_Cylinder.003_Material.021Mat
+    second: {fileID: 2100000, guid: c7b681cc3ec27bb4e885e3442b40bea0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder.003_Cylinder.003_Material.022Mat
+    second: {fileID: 2100000, guid: 585edfa67c8b0c641a0c791d118c0381, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder.004_Cylinder.004_Material.021Mat
+    second: {fileID: 2100000, guid: ee82472bd96a8254e8ff36d52c700247, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder.004_Cylinder.004_Material.022Mat
+    second: {fileID: 2100000, guid: 06a859d934339b14c8eb0c34e87697ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder.005_Cylinder.005_lambaMat
+    second: {fileID: 2100000, guid: b5afedd2f8d6d4b46bdff34f922b6c52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder.006_Cylinder.006_lambaMat
+    second: {fileID: 2100000, guid: 95010185a64431146a2b59b1c0874c46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder.007_Cylinder.007_lambaMat
+    second: {fileID: 2100000, guid: 2068135e2f327ce4ca750da074543aac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder.008_Cylinder.008_lambaMat
+    second: {fileID: 2100000, guid: 0d8fa4bcd47608d4ab8951730c3eb29d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder.009_Cylinder.009_lambaMat
+    second: {fileID: 2100000, guid: 3e95f5f0e5f3e0b48be4292441a4228e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder.010_Cylinder.010_lambaMat
+    second: {fileID: 2100000, guid: baed413e2c5fd8047a33ec4c1466f5b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder.011_Cylinder.011_lambaMat
+    second: {fileID: 2100000, guid: ad5d80817449e6c47b3ddd0dbe98ca32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder.012_Cylinder.012_lambaMat
+    second: {fileID: 2100000, guid: fa20ed8cc29558b4e83c7be424ee021e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder.013_Cylinder.013_lambaMat
+    second: {fileID: 2100000, guid: 2b3fdd9de5343a944b687e7f38e37b78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder.014_Cylinder.014_lambaMat
+    second: {fileID: 2100000, guid: c133495233f456c4a8f0c02cc9877130, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder.015_Cylinder.015_lambaMat
+    second: {fileID: 2100000, guid: e386f488a333877448a1f92ba1ae34ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder.016_Cylinder.016_lambaMat
+    second: {fileID: 2100000, guid: 50046661f2988104eab2e13e66898b1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder.017_Cylinder.017_lambaMat
+    second: {fileID: 2100000, guid: f5dcfc8d3b6ecb84480dc21913bb8ebb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder.018_Cylinder.029_headphoneMat
+    second: {fileID: 2100000, guid: 854882f84d85d49499cf73109cfe7be5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder.019_Cylinder.034_cableMat
+    second: {fileID: 2100000, guid: 0019e5a083cab764c9fc236253ea0963, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder.020_Cylinder.020_cableMat
+    second: {fileID: 2100000, guid: c3b55afcf6261c94b8823151b1bf75d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder.021_Cylinder.018_cableMat
+    second: {fileID: 2100000, guid: e96ba13d0e235e644b8407699edae91c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder.022_Cylinder.023_case_Mat
+    second: {fileID: 2100000, guid: 5d253365f5aa4b24dbbeb457a366dc33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder.023_Cylinder.033_monitor_1Mat
+    second: {fileID: 2100000, guid: 9f5eb5ec9dc75814f9ba6cd2b91b60c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder.024_Cylinder.025_lamba.2Mat
+    second: {fileID: 2100000, guid: 18141dd21570ed7408429e0e8f1eff9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder.025_Cylinder.030_monitor_barMat
+    second: {fileID: 2100000, guid: 1969aafccf71789489533221c28f9e14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder.026_Cylinder.027_lamba.2Mat
+    second: {fileID: 2100000, guid: 21a892a3562a0f040851a74256eaf073, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder.027_Cylinder.019_monitor_barMat
+    second: {fileID: 2100000, guid: 7f619925721ac57459726de0c530674f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder_Cylinder_Material.021Mat
+    second: {fileID: 2100000, guid: 0c52a2ff659284a4098fab03744230e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder_Cylinder_Material.022Mat
+    second: {fileID: 2100000, guid: 75e26aae97a6ad54ebb3d25211dc250a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Headphone.001_Plane.014_headphone_s\xFCngerMat"
+    second: {fileID: 2100000, guid: cd855f9ff8b73e14981b167570c5058f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Headphone_Plane.011_headphoneMat
+    second: {fileID: 2100000, guid: b03af19594685f14c8faaf9e8eb3da82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Line009_Mesh.002_monitor_1Mat
+    second: {fileID: 2100000, guid: 1f9e031d6a2c6144caed8acbeef32ea6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "MON\u0130TOR.001_Cube.008_monitor_1Mat"
+    second: {fileID: 2100000, guid: c3edddf6283a5ec4c84fc040531ce816, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "MON\u0130TOR.001_Cube.008_screenMat"
+    second: {fileID: 2100000, guid: ebcfde0f25c692e41918541247d1b171, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "MON\u0130TOR_Cube.004_monitor_1Mat"
+    second: {fileID: 2100000, guid: 6991deaa1d36d2c42b551127e25c3661, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "MON\u0130TOR_Cube.004_screen.001Mat"
+    second: {fileID: 2100000, guid: 1e528887907572e4dbac3672a201ac93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object056_Mesh.011_Material_#1233Mat
+    second: {fileID: 2100000, guid: 61830e6f745554340bdd1b7acb8364c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PC_Cube.002_case_Mat
+    second: {fileID: 2100000, guid: de3237350784bd543b01dbf8832e45a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane.001_Plane.004_lamba.2Mat
+    second: {fileID: 2100000, guid: 24b6cefc6efc8e94586b9a3ecf1443b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane.002_Plane_lamba.2Mat
+    second: {fileID: 2100000, guid: 6b16f5979911886478de26acbfd182bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane.003_Plane.001_lamba.2Mat
+    second: {fileID: 2100000, guid: 90655c46b05eeb546bdfa488cf417ad1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane.004_Plane.003_lamba.2Mat
+    second: {fileID: 2100000, guid: bf97b238a7f41654e819731acd5c46db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane.005_Plane.005_lamba.2Mat
+    second: {fileID: 2100000, guid: a4c2a4c5c5591a44181d4bdff1aeeec2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane.006_Plane.006_lamba.2Mat
+    second: {fileID: 2100000, guid: 7e24e39c7889f5a4f9127d2ec01225bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane.007_Plane.008_lambaMat
+    second: {fileID: 2100000, guid: aebac8b754a75084aab768b41709ee8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane.008_Plane.016_paper.002Mat
+    second: {fileID: 2100000, guid: 3eabd4451093de8478c7f6a015961064, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane.009_Plane.012_drink.002Mat
+    second: {fileID: 2100000, guid: d533863acb12d29498fcb9f3c26b7398, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane.010_Plane.015_sofaMat
+    second: {fileID: 2100000, guid: 7467a37c1978538409d1be4e8a6454d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Plane.011_Plane.013_headphone_s\xFCngerMat"
+    second: {fileID: 2100000, guid: c4cca4b28e304fc4cb503b3ec4a7adde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane.012_Plane.024_paper.001Mat
+    second: {fileID: 2100000, guid: fca80c4df5b773347ad055db71be8133, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane.013_Plane.036_tapeMat
+    second: {fileID: 2100000, guid: 5c3b5e53238a5b240801d22bb6f9cd48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane.014_Plane.031_door.001Mat
+    second: {fileID: 2100000, guid: fc69c8ef64fa6ee4ab0c15275ab4472c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane.015_Plane.032_door.001Mat
+    second: {fileID: 2100000, guid: 464fa30cbe9fd1e4a8c5c57c9882b8a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane.016_Plane.023_clapper_3Mat
+    second: {fileID: 2100000, guid: 82187f0d80b97f245b64af2bda96635d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane.017_Plane.035_doorMat
+    second: {fileID: 2100000, guid: fca1cece82c32294eaf2a7312f521538, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane.018_Plane.037_tapeMat
+    second: {fileID: 2100000, guid: 9a29f9413d825a746967a2a4ad27f7fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane.019_Plane.038_tapeMat
+    second: {fileID: 2100000, guid: d1499320b3e57114da6a4c62d1a91cf1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane.020_Plane.039_tapeMat
+    second: {fileID: 2100000, guid: 5c684f3c2f6390442880b5812f3c1cc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane.021_Plane.040_tapeMat
+    second: {fileID: 2100000, guid: 44bd83c9c5f1e4b4fac7a9005d7f7265, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane.022_Plane.041_tapeMat
+    second: {fileID: 2100000, guid: 18fb74b1f70165b498e9e2784484aaf6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane.023_Plane.042_tapeMat
+    second: {fileID: 2100000, guid: 3e3001d1c1b865a448b3097214f2ed39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane.024_Plane.043_tapeMat
+    second: {fileID: 2100000, guid: e5f29b99dc4c4a24189d83166516e1c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane008_Mesh.008_monitor_1Mat
+    second: {fileID: 2100000, guid: 965a9e3380a66a543a4f4d173ce58b70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane009_Mesh.010_Material_#1233Mat
+    second: {fileID: 2100000, guid: 8c135a9c3ccd55246a56b0580c82a815, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane011_Mesh.012_Material_#1233Mat
+    second: {fileID: 2100000, guid: 48e92887027c97c4cb20f84b6b2340e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane1297_Mesh.013_Material_#1233Mat
+    second: {fileID: 2100000, guid: 42953ffc0a3d2654daed6da5c68af323, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane_Plane.009_Material.017Mat
+    second: {fileID: 2100000, guid: f23aaf75a8a4ec44080b7b6fdd944ca1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Polyline.001_Mesh.001_04_-_CoronaMtlMat
+    second: {fileID: 2100000, guid: f32d3728b1b164b419af317b65274cbf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere.001_Sphere.001_bulpMat
+    second: {fileID: 2100000, guid: c4e4f2150dd36604bb13f61dfffcbfbf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere.002_Sphere.002_bulpMat
+    second: {fileID: 2100000, guid: 82e479db09a067348991fa932c39134f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sphere_Sphere_bulpMat
+    second: {fileID: 2100000, guid: bd02895e5bc41ce45beef52f4fc69295, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Text.001_Text.002_neon_signMat
+    second: {fileID: 2100000, guid: 224de41547d43674898f23819ea02ddb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "bardak_alt\u0131.001_Plane.027_Material.003Mat"
+    second: {fileID: 2100000, guid: e5310d1ed6ff0e14f82e7b894547dd32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "bardak_alt\u0131.002_Plane.028_Material.003Mat"
+    second: {fileID: 2100000, guid: b221bd2786c63f2449ed3befda876073, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "bardak_alt\u0131_Plane.010_Material.019Mat"
+    second: {fileID: 2100000, guid: ca61a86835f30dd4e817baf54dfcffb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book.001_Cube.063_book.001Mat
+    second: {fileID: 2100000, guid: 100fb3a13da124847b543636241a6663, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book.002_Cube.065_book.002Mat
+    second: {fileID: 2100000, guid: b1e996ab7bc527c4d92fc0c6b8612dac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book.003_Cube.067_book.003Mat
+    second: {fileID: 2100000, guid: c900ea91b5784a34ca7ca1f6cb3e26ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book.004_Cube.069_book.004Mat
+    second: {fileID: 2100000, guid: d2946ff5854fb1c44997180044873e66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book.005_Cube.071_book.005Mat
+    second: {fileID: 2100000, guid: 1cbbb230b12054d4190e302da7ed6677, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book.006_Cube.073_book.006Mat
+    second: {fileID: 2100000, guid: 5f12274c57425a6459a7d3e01bc09203, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book.007_Cube.075_book.007Mat
+    second: {fileID: 2100000, guid: 97b2faf26fe765f46ba808cd13732d68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book.008_Cube.078_book.008Mat
+    second: {fileID: 2100000, guid: a77195a621f944f4b993fb0a4a113751, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book.009_Cube.081_book.001Mat
+    second: {fileID: 2100000, guid: 07b9cd69a1dd53a45ab60e188a5730aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book.010_Cube.083_book.002Mat
+    second: {fileID: 2100000, guid: a15aab4f39487a4459aff3dfb96be838, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book.011_Cube.053_book.003Mat
+    second: {fileID: 2100000, guid: cc0cdaf95ac1070479ba740cfe5535a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book.012_Cube.107_book.004Mat
+    second: {fileID: 2100000, guid: 9dcc59f4f5d4aa9489ecb72c7f7ae753, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book.013_Cube.109_book.002Mat
+    second: {fileID: 2100000, guid: 6339ce81f7ce0eb4cbae26e1cbdf5811, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book.014_Cube.111_book.002Mat
+    second: {fileID: 2100000, guid: f10b807c1dde2db4d9af3ac3e795a0d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book.015_Cube.113_book.001Mat
+    second: {fileID: 2100000, guid: 2b3fad0c11112924085e4cc4fbc91315, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book.016_Cube.115_bookMat
+    second: {fileID: 2100000, guid: 4bbc98be1bc1fdf449e1ee8d796ec201, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book.017_Cube.117_book.005Mat
+    second: {fileID: 2100000, guid: d8f0d18cc8d70bc4d9f90a7291b29747, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book.018_Cube.119_book.003Mat
+    second: {fileID: 2100000, guid: 0ea4f56e766b29845be1053682333ea4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book.019_Cube.121_book.003Mat
+    second: {fileID: 2100000, guid: 2d94bff7a32634c48a7d04829f8a8e13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book.020_Cube.123_bookMat
+    second: {fileID: 2100000, guid: ef3861b6a0a9d7b41b7926464f64870e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book.021_Cube.125_book.011Mat
+    second: {fileID: 2100000, guid: af751e499b1756d429125913bb710503, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book.022_Cube.127_book.010Mat
+    second: {fileID: 2100000, guid: 78c1eb3c39246204b975de5e1773b728, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book.023_Cube.129_book.009Mat
+    second: {fileID: 2100000, guid: 997789b0395b5c44693c13bca53af5c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book.024_Cube.131_bookMat
+    second: {fileID: 2100000, guid: 71975ed3cf2f41f4b954bbcafa947abf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book.025_Cube.133_bookMat
+    second: {fileID: 2100000, guid: abb9e55ebd1cc6d46bd60b657da404a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book.026_Cube.135_book.006Mat
+    second: {fileID: 2100000, guid: b024b86c79e43f34fb97ddb35bd4d06a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book.027_Cube.137_book.004Mat
+    second: {fileID: 2100000, guid: 32ec790f15ccbea4f88455614d459b70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book.028_Cube.139_book.003Mat
+    second: {fileID: 2100000, guid: 1e31717181c89144a984adf14eb9574c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book.029_Cube.141_book.004Mat
+    second: {fileID: 2100000, guid: 0c3f471357f1be9429b588586e767a0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book.030_Cube.143_book.010Mat
+    second: {fileID: 2100000, guid: c08c28543d5721b4d9113985baf12bf5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book.031_Cube.146_book.011Mat
+    second: {fileID: 2100000, guid: a21efc1e6418b8e4596debc47f2275f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book.032_Cube.148_book.002Mat
+    second: {fileID: 2100000, guid: 4cd156b07de6b7f4d928d5c906e9e528, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book.033_Cube.150_book.012Mat
+    second: {fileID: 2100000, guid: 3051fa0f0f6e50541866489b7e19ffca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book.034_Cube.152_book.004Mat
+    second: {fileID: 2100000, guid: 03e010b60c5fba741a9a6ed5ebbe887f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: book_Cube.061_bookMat
+    second: {fileID: 2100000, guid: 67efc19806832cf46aad8c957c80c284, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bookcase_Cube.049_desk_woodMat
+    second: {fileID: 2100000, guid: bbf8daffec6303c4583045ee1ce8750f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: box.001_Cube.060_box_2Mat
+    second: {fileID: 2100000, guid: 2ea145096f0d6c445afa62ec605e8015, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: box.002_Cube.102_boxMat
+    second: {fileID: 2100000, guid: ef608d2538452274bab246d2b5d818b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: box.003_Cube.104_box_3Mat
+    second: {fileID: 2100000, guid: 9efe923605ba4cc4598be3faa920ff92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: box_Cube.054_box_3Mat
+    second: {fileID: 2100000, guid: e2d9ec8364d3ebb4d93eb474d13e5d2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cable_1_BezierCurve.012_cableMat
+    second: {fileID: 2100000, guid: c5ecf8076cba0ff448f76ade18a70195, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cable_2_BezierCurve.002_cableMat
+    second: {fileID: 2100000, guid: a8c167e6376634240af17759f847e13b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cable_3.001_BezierCurve.003_cableMat
+    second: {fileID: 2100000, guid: 6b38f9e409f85a149b420ee141e2aa9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cable_3_BezierCurve.008_cableMat
+    second: {fileID: 2100000, guid: fdb3137d48be07b4bb42e0f0eff25d2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cable_4_BezierCurve.010_cableMat
+    second: {fileID: 2100000, guid: 36ea9a179505bf840bf76fd2805bc379, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cable_5_BezierCurve.009_cableMat
+    second: {fileID: 2100000, guid: 266f29a221d883a419ea7ec448f23bef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cable_6_BezierCurve.011_cableMat
+    second: {fileID: 2100000, guid: d758a9c99140db344b3befbacb4249c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: canvas_mini_Cube.080_canvasMat
+    second: {fileID: 2100000, guid: 51a0a53bf50c11848886bf9a103dec60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ceiling_lamp.001_Circle.018_lambaaMat
+    second: {fileID: 2100000, guid: aac24e88199fa7a4c9dd59532a1f097e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ceiling_lamp_Circle.017_walls.001Mat
+    second: {fileID: 2100000, guid: f94d6d0edae5cdf4ea5fae328068d5db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: clapper_Cube.025_clapperMat
+    second: {fileID: 2100000, guid: 95ad1e023047b9944ae5528ecb8c5b93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: clapper_Cube.025_clapper_2Mat
+    second: {fileID: 2100000, guid: d9c87050ee3444d4480e05b11b841457, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: coffee_table_Cube.093_coffee_tableMat
+    second: {fileID: 2100000, guid: 8876e1944349f6b408a27b40bd3f3410, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cup_Circle.014_cupMat
+    second: {fileID: 2100000, guid: 42070f921d226b74fbd53ab19c6cc0b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: door_Plane.034_doorMat
+    second: {fileID: 2100000, guid: 0ec7270f3a79abb439a195c70ddd1136, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: drink_Circle.002_drink.001Mat
+    second: {fileID: 2100000, guid: 0579d0da3e00792489bced09c1bf10f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: drink_Circle.002_drinkMat
+    second: {fileID: 2100000, guid: acad499cb02de0e45a2a1c6d3294cafb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flag_Plane.030_banner.001Mat
+    second: {fileID: 2100000, guid: 4fb9eae8a3beb4d41b3dc736b4b586b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flag_Plane.030_bannerMat
+    second: {fileID: 2100000, guid: 9075b6b11550ca14c98e67f2caba4eae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "floor_lamp_Cylinder.024_lamba_\u015FeffafMat"
+    second: {fileID: 2100000, guid: 0f1c9921cf9f66a40a5d8d12ff0916ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: frame_1.001_Plane.007_fear_the_dark.002Mat
+    second: {fileID: 2100000, guid: 52ba499024252764d815fdd085ce2500, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: frame_1.001_Plane.007_frameMat
+    second: {fileID: 2100000, guid: d6c2d676f2e397b4495d83ebc9f16f67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: frame_1.002_Plane.026_fear_the_dark.001Mat
+    second: {fileID: 2100000, guid: d642c057f8c40cd49a88aae9a8bfd3f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: frame_1.002_Plane.026_frameMat
+    second: {fileID: 2100000, guid: d56bd122b3bd96a438174ac176a047e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: frame_1_Plane.021_fear_the_darkMat
+    second: {fileID: 2100000, guid: b7db8bcd80f6d524d8c86db6818a7929, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: frame_1_Plane.021_frame.001Mat
+    second: {fileID: 2100000, guid: 0e646d556d7591b4aab4ffadd05b271e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: frame_2_Plane.022_frame.001Mat
+    second: {fileID: 2100000, guid: f27edb7a413160844b9363c4ee02fb5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: frame_2_Plane.022_obey_the_godMat
+    second: {fileID: 2100000, guid: dbd2b63f754642e44b300dca534023fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: invisible_walls_Cube.029_walls.002Mat
+    second: {fileID: 2100000, guid: c8b27d4a3dfebd84b873554c932905ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: invisible_walls_Cube.029_walls_invisMat
+    second: {fileID: 2100000, guid: 1fe91ed0e02227f4da4cc4ee4bb035f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: keyboard_Mesh_monitor_barMat
+    second: {fileID: 2100000, guid: c5f67d8c77958fa418870351372d81b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: leg_1_Plane.017_legMat
+    second: {fileID: 2100000, guid: 9c4df31233a0d2c4ab206bdec9401e41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: leg_2_Plane.018_legMat
+    second: {fileID: 2100000, guid: 11aa6d9237665844ba938b96308c688a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: leg_3_Plane.019_legMat
+    second: {fileID: 2100000, guid: 0c725a85b349db64ba45869589ac58de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: leg_4_Plane.020_legMat
+    second: {fileID: 2100000, guid: 7e1a451d5d14d8a4da621f6a0328a74b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mause_Mesh.009_monitor_1Mat
+    second: {fileID: 2100000, guid: a4f68bac9976d234bbe3a6f6e00b21c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mause_Mesh.009_mouseMat
+    second: {fileID: 2100000, guid: 9ab6d213501db3647b3e2bc2b71a5038, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mausepad_Plane.002_mausepadMat
+    second: {fileID: 2100000, guid: 64863c39d29728c4389d79e2425dca0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: neon_sign_Text_neon_signMat
+    second: {fileID: 2100000, guid: 7cb5120f73ac2e8469fc6bc975adee67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: notebook_Cube.031_book.003Mat
+    second: {fileID: 2100000, guid: f92f7489b646f904b90fc9db4bfcf201, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: papers.001_Plane.045_paper.003Mat
+    second: {fileID: 2100000, guid: 0bfeff07e21e46d4192f9d47768c690b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: papers.002_Plane.046_paper.004Mat
+    second: {fileID: 2100000, guid: 50c62b9d563e0ae458485386b8ee75e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: papers.003_Plane.047_paper.005Mat
+    second: {fileID: 2100000, guid: 31ccbfb092096b74098d94fa7fbe097e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: papers_Plane.025_paperMat
+    second: {fileID: 2100000, guid: cdeb56d3fad45b3498aa2d704e4a3238, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: parke_Cube.034_floor_woodMat
+    second: {fileID: 2100000, guid: 10198b30412f3a34e8169ae7284412f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: poster_1_mad_max_fury_road_web_by_3ftdeep-d8qr5za_mad_max_fury_road_web_by_3ftdeep-d8qr5zaMat
+    second: {fileID: 2100000, guid: 88d4f26ca4c6bd74e9c8c64718f0b56a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: poster_2_mad_max_fury_road_web_by_3ftdeep-d8qr5za.001_mad_max_fury_road_web_by_3ftdeep-d8qr5za.001Mat
+    second: {fileID: 2100000, guid: bdb63261ae3b8a94f9b9fd4c0b5425d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: priz_2.001_Cube.046_cableMat
+    second: {fileID: 2100000, guid: 6c496a12afd6e1644aaafa86fcb554cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: priz_2.002_Cube.047_cableMat
+    second: {fileID: 2100000, guid: 071b3e00f20364b419a87696b74c00c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: priz_2_Cube.040_cableMat
+    second: {fileID: 2100000, guid: 0f24c62f6710239468865bfceaee03f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: priz_Cube.044_cableMat
+    second: {fileID: 2100000, guid: 3a07de737ac3c6e4585321153c300a84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rug_Plane.029_Material.006Mat
+    second: {fileID: 2100000, guid: 93c4896add0a3844d95f0723539f2d1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shelf_1_Cube.023_desk_woodMat
+    second: {fileID: 2100000, guid: 2febacb8eaabc4e45b330281ccb52b32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shelf_2_Cube.024_desk_woodMat
+    second: {fileID: 2100000, guid: 2777dbc5b7282244385ea21641362e40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sofa_Cube.088_sofaMat
+    second: {fileID: 2100000, guid: c3deb3271ed812447b5dc8f02e3058e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: speaker_2.001_Cube.154_Material.018Mat
+    second: {fileID: 2100000, guid: 4c9d89d1abcb47d40bc3137895947885, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: speaker_2.001_Cube.154_speaker_2Mat
+    second: {fileID: 2100000, guid: 097100ced745f8a42a2bfb8913db0f61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: speaker_2_Cube.013_Material.018Mat
+    second: {fileID: 2100000, guid: eab8dd0298de2f7439605bfbd505a03a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: speaker_2_Cube.013_speaker_2Mat
+    second: {fileID: 2100000, guid: cff553f232c315a4c975c129c50d7c03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: switch_Cube.050_switchMat
+    second: {fileID: 2100000, guid: bbddf9c9b10737349add44da6d0cf7f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: table_Cube.001_desk_woodMat
+    second: {fileID: 2100000, guid: 468ded7ba20e0114498248694e2de283, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trashcan_Cube.032_trashMat
+    second: {fileID: 2100000, guid: b07f01b2da984d74dac5a3527dfe6a67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: walls_Cube_walls.001Mat
+    second: {fileID: 2100000, guid: 6ba56011688e6814cb4a397e070be867, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: walls_Cube_wallsMat
+    second: {fileID: 2100000, guid: ca801f4563fb5434b95ba9646ceb3ad8, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
